@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/djukic/code/aoc-2021/3'
+let g:netrw_dirhist_2='/home/djukic/code/raylib_stuff/tetris'
+let g:netrw_dirhist_1='/home/djukic'
